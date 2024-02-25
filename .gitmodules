@@ -1,0 +1,3 @@
+[submodule "VRAirHockey-Backend"]
+	path = VRAirHockey-Backend
+	url = git@github.com:zSnails/VRAirHockey-Backend.git
